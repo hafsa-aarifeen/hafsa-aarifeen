@@ -1,6 +1,3 @@
-GitHub intro
-
-
 # Hi 👋, I'm Hafsa Aarifeen
 
 ### A Passionate Fullstack & Frontend Developer
