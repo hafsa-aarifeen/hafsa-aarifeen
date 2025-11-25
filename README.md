@@ -6,9 +6,9 @@
 #### ▶️ Currently working in Front-End projects using React+Tailwind
 #### ▶️ Bsc (Hons) Information Technology - UOK (Specialized in Software Engineering)
 
-###
+<br/>
 
-<h2 align="left">Languages and Tools I work with</h2>
+<h2 align="left">👩‍💻 Languages and Tools I work with</h2>
 
 <div align="left">
   <h4>FRONT-END</h4>
@@ -62,11 +62,12 @@
 
   
 </div>
+<br/>
 
 ###
 
 <div align="left">
-  <h2 align="left">Socials</h2>
+  <h2 align="left">👩‍💻 Socials</h2>
   <a href="https://www.linkedin.com/in/hafsa-aarifeen/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -78,13 +79,13 @@
   </a>
 </div>
 
+<br/>
+<h2 align="left">👩‍💻 GitHub Stats</h2>
 
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hafsa-aarifeen&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hafsa-aarifeen&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hafsa-aarifeen&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=hafsa-aarifeen&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=hafsa-aarifeen&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hafsa-aarifeen&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-## GitHub Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hafsa-aarifeen&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
+
 
