@@ -81,7 +81,6 @@
 <br/>
 <h2 align="left">👩‍💻 GitHub Stats</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=hafsa-aarifeen&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=hafsa-aarifeen&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hafsa-aarifeen&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
