@@ -82,8 +82,10 @@
 <h2 align="left">👩‍💻 GitHub Stats</h2>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=hafsa-aarifeen&theme=dark&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafsa-aarifeen&theme=dark&hide_border=false&layout=compact&card_width=495) <br/>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hafsa-aarifeen&show_icons=true&theme=vision-friendly-dark&card_width=495)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafsa-aarifeen&theme=dark&hide_border=false&layout=compact&card_width=495) <br/> -->
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hafsa-aarifeen&show_icons=true&theme=vision-friendly-dark&card_width=495) <br/> -->
+
+
 
 
 
