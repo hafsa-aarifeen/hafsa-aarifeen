@@ -79,6 +79,11 @@
 </div>
 
 <br/>
+<h2 align="left">👩‍💻 LeetCode Stats</h2>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/hafsa_aarifeen?theme=dark&font=Coming%20Soon)
+
+<br/>
 <h2 align="left">👩‍💻 GitHub Stats</h2>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=hafsa-aarifeen&theme=dark&hide_border=false)<br/>
