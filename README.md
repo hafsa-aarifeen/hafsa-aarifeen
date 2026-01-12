@@ -81,7 +81,7 @@
 <br/>
 <h2 align="left">👩‍💻 LeetCode Stats</h2>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/hafsa_aarifeen?theme=dark&font=Coming%20Soon)
+![LeetCode Stats](https://leetcard.jacoblin.cool/hafsa_aarifeen?theme=dark&font=DM%20Sans)
 
 <br/>
 <h2 align="left">👩‍💻 GitHub Stats</h2>
