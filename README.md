@@ -42,6 +42,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="mongodb logo"  />
+  <img width="12" />
   <br/>
     
   <h4>OTHER</h4>
