@@ -2,7 +2,7 @@
 
 ### A Passionate Fullstack & Frontend Developer
 
-#### ▶️ Software Engineer Intern @X4 Digital Labs | Ex - LSEG
+#### ▶️ Software Engineer @X4 Digital Labs | Ex - LSEG
 #### ▶️ Currently working in Front-End projects using React+Tailwind
 #### ▶️ Bsc (Hons) Information Technology - UOK (Specialized in Software Engineering)
 
